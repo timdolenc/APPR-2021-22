@@ -5,7 +5,7 @@ library(tidyr)
 library(tmap)
 library(shiny)
 
-
+#še en test
 
 options(gsubfn.engine="R")
 
