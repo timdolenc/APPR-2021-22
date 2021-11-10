@@ -6,6 +6,10 @@ library(tmap)
 library(shiny)
 
 
+
+x = "krneki"
+y = "bla"
+
 options(gsubfn.engine="R")
 
 # Uvozimo funkcije za pobiranje in uvoz zemljevida.
