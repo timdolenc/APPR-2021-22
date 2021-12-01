@@ -8,7 +8,7 @@ Analiziral bom vpliv dohodkovne neenakosti na kriminal, samomore in onesnaževan
 Za merjenje dohodkovne neenakosti bom uporabil Ginijev index, za merjenje onesnaževanja pa se bom osredotočil le na stopnjo onesnaženosti zraka.
 
 ## Podatki
-1. Tabela  vsebuje Ginijeve koeficiente po državah.
+1. Tabela `podatki/emisije.xlsx.r` vsebuje Ginijeve koeficiente po državah.
 2. Tabela  vsebuje število samomorov na 100000 prebivalcev po državah EU.
 3. Tabela  vsebuje podatke o onesnaženosti zraka po državi (grami toplogrednih plinov per capita)
 4. Tabela  vsebuje podatke o kriminalnih dejanjih glede na vrsto, na 100000 prebivalcev po državah.
