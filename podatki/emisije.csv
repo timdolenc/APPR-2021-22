@@ -1,0 +1,51 @@
+﻿Data extracted on 01/12/2021 00:25:08 from [ESTAT];;
+Dataset: ;Air emissions accounts totals bridging to emission inventory totals [ENV_AC_AIBRID_R2__custom_1681209];
+Last updated: ;11/06/2021 23:00;
+;;
+Time frequency;;Annual
+Air pollutants and greenhouse gases;;Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)
+Environment indicator;;Air emissions as reported to international conventions (UNFCCC and CLRTAP inventories, territory principle)
+Unit of measure;;Grams per capita
+;;
+TIME;2010;
+GEO (Labels);;
+European Union - 27 countries (from 2020);9.495.107,27;s
+European Union - 28 countries (2013-2020);9.524.066,83;s
+Belgium;12.327.547,62;
+Bulgaria;8.211.198,28;
+Czechia;13.449.745,92;
+Denmark;11.451.383,47;
+Germany (until 1990 former territory of the FRG);11.517.308,76;
+Estonia;15.786.294,22;
+Ireland;13.437.601,02;
+Greece;10.657.194,03;
+Spain;7.704.654,77;
+France;7.895.074,05;
+Croatia;6.525.007;
+Italy;8.666.596,02;
+Cyprus;11.475.275,78;
+Latvia;5.853.466,61;s
+Lithuania;6.743.846,58;s
+Luxembourg;24.004.323,24;s
+Hungary;6.485.660,55;
+Malta;7.199.093,89;
+Netherlands;12.863.946,71;
+Austria;10.117.033,57;
+Poland;10.854.258,57;
+Portugal;6.521.226,79;
+Romania;6.132.964,61;
+Slovenia;9.545.722;
+Slovakia;8.607.280,9;
+Finland;14.117.840,57;
+Sweden;6.874.220,6;
+Iceland;15.497.763,78;
+Norway;11.345.082,79;
+Switzerland;7.008.825,41;
+United Kingdom;9.727.557,34;
+Serbia;8.164.650,93;
+Turkey;5.453.525,54;
+;;
+Special value;;
+:;not available;
+Available flags:;;
+s;Eurostat estimate;
