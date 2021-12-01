@@ -9,7 +9,7 @@ Za merjenje dohodkovne neenakosti bom uporabil Ginijev index, za merjenje onesna
 
 ## Podatki
 1. Tabela 1 vsebuje Ginijeve koeficiente po državah.
-2. Tabela 2 vsebuje število samomorov na 100000 prebivalcev po državah EU.
+2. Tabela 2 vsebuje število samomorov na 100000 prebivalcev po svetovnih državah (wikipedia).
 3. Tabela 3 vsebuje podatke o onesnaženosti zraka po državi (grami toplogrednih plinov per capita)
 4. Tabela 4 vsebuje podatke o kriminalnih dejanjih glede na vrsto, na 100000 prebivalcev po državah.
 5. Tabela 5 vsebuje BDP per capita po državi.
